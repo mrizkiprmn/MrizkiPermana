@@ -5,6 +5,7 @@ Level 3 - Tugas 10 Arkademy
  ### Project using:
  ###### Programming Language : PHP
  ###### Database : MYSQL
+ ###### Server : XAMPP
  ###### Framework : Bootstrap
  
  
